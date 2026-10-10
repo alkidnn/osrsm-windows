@@ -2,7 +2,7 @@
 
 System tray monitor for Windows. Shows CPU, RAM, Disk, Swap, and Temperature live in your taskbar.
 
-![Screenshot](assets/SCREENSHOT_1.png)
+![Screenshot](assets/SCREENSHOT_1.png) ![Screenshot](assets/SCREENSHOT_2.png)
 
 **Download:** [OSRSM.exe](https://github.com/alkidnn/osrsm-windows/releases) (Windows 10/11, no Python required)
 
