@@ -6,7 +6,11 @@ Open Source Resource System Monitor — a system tray utility that shows real-ti
 
 > Based on the original [OS-RSM](https://github.com/MihanPROJECTS/OS-RSM) project for Linux by [MihanPROJECTS](https://github.com/MihanPROJECTS). This is the Windows version with extended features.
 
-![OS-RSM screenshot](assets/screenshot.png)
+![OS-RSM main window](assets/SCREENSHOT_1.png)
+
+![OS-RSM tray popup](assets/SCREENSHOT_2.png)
+
+![OS-RSM settings](assets/SCREENSHOT_3.png)
 
 ## Features
 
@@ -45,6 +49,7 @@ Open Source Resource System Monitor — a system tray utility that shows real-ti
 - Theme (auto / light / dark)
 - Tray mode (single / dual)
 - Font size, color reset, config export/import
+- Autostart with system
 - Language: Русский / English
 
 ## Requirements
@@ -58,6 +63,6 @@ Open Source Resource System Monitor — a system tray utility that shows real-ti
 
 ```bash
 git clone https://github.com/alkidnn/osrsm-windows.git
-cd OS-RSM
+cd osrsm-windows
 pip install psutil pillow pystray
 python src/osrsm.py
